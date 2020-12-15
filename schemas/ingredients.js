@@ -1,12 +1,13 @@
 export default {
-  name: 'ingredients',
+  name: 'ingredient',
   title: 'Ingredients',
   type: 'document',
   fields: [
     {
-      name: 'ingredients',
-      title: 'Ingredients',
+      name: 'name',
+      title: 'Ingredient',
       type: 'string',
+      description: 'What is the name of the ingredient?',
     },
   ],
 };
