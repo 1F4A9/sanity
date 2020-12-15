@@ -1,3 +1,1 @@
-# sanity :sparkles:
-
-## School assignment :rocket:
+# School assignment :sparkles:
